@@ -1,4 +1,4 @@
-# EmoInsight 💬📊
+# 💬📊EmoInsight
 
 EmoInsight is an innovative therapeutic journaling website that offers real-time chat functionality and personalized advice based on users' emotions. The website analyzes users' text inputs to generate a pie chart of their emotions and provides insightful responses powered by OpenAI's API. Using Python, Javascript, HTML/CSS, TensorFlow, and OpenAI API, EmoInsight serves as a useful tool for anyone seeking to better understand their emotions and gain helpful insights.
 My inspo is Journaling has always been a therapeutic way to reflect upon my feelings. However, there was a lack of platforms that combined the act of journaling with emotion tracking and intelligent insights. The vision for EmoInsight stemmed from this gap — a space where individuals can not only write down their feelings but also receive feedback, understand emotional patterns, and get guidance.
